@@ -1,0 +1,20 @@
+body {
+    background-image: url('11 de nov. de 2025 às 11_08 (1).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+h1 {
+    font-size: 3.5rem;
+    text-shadow: 2px 2px 4px #000000;
+}
+.text-box {
+    background-color: rgba(0,0,0,0.75);
+    color: red;
+    font-size: 50px;
+    font-family: 'Times new Roman', Times , serif;
+    margin-top: 15px;
+    padding-top: 0,5px;
+    padding-bottom: 1px;
+}
